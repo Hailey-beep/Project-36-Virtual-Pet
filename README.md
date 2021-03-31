@@ -1,3 +1,6 @@
 # Project-36-Virtual-Pet
 
-Modifed where if there is no more food they will tell you you are 'out of food'.
+Instructions: Feed your pet as much as you feel. To make sure you don't overfeed you pet it will tell you when it was last feed.
+Have fun and enjoy!
+
+Modifed: if there is no more food, it will tell you 'out of food'.
